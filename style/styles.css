@@ -380,7 +380,7 @@ span{
 
 /* BREAKPOINT */
 @media (max-width: 1200px) {
-    html{
+    html {
         font-size: 55%;
     }
 }
@@ -412,7 +412,7 @@ span{
 }
 
 @media (max-width: 768px) {
-    menu-icon {
+    #menu-icon {
         display: block;
     }
 
